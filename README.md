@@ -1,50 +1,60 @@
-# ❌⭕ Tic Tac Toe — Minimax AI
+# ❌⭕ Tic Tac Toe - Minimax AI
 
 A Python + Pygame desktop Tic Tac Toe game with a clean UI, click sound effects, adjustable difficulty, and an unbeatable AI opponent built on the Minimax algorithm.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-2.x-green?logo=pygame&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Minimax-purple)
-![License](https://img.shields.io/badge/License-MIT-orange)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.x-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Pygame-2.x-0f172a?style=for-the-badge&logo=pygame&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/AI-Minimax-0f172a?style=for-the-badge&logo=openai&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/License-MIT-0f172a?style=for-the-badge&logo=opensourceinitiative&logoColor=F8FAFC" />
+<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0f172a?style=for-the-badge&logo=linux&logoColor=38BDF8" />
+
+</p>
 
 ---
 
 ## 📖 Overview
 
-**Tic Tac Toe — Minimax AI** is a fully playable desktop implementation of the classic X and O game. The player goes up against an AI that uses the **Minimax algorithm** to evaluate every possible game state and make the optimal move — meaning it never loses. A random-move easy mode is also available for casual play. Built entirely with `pygame` and `numpy`, no external game engine required.
+**Tic Tac Toe - Minimax AI** is a fully playable desktop implementation of the classic X and O game. The player goes up against an AI that uses the **Minimax algorithm** to evaluate every possible game state and make the optimal move; meaning it never loses. A random-move easy mode is also available for casual play. Built entirely with `pygame` and `numpy`, no external game engine required.
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Screenshots
 
-<!-- Replace with your actual screenshot path after uploading to the repo -->
-![Gameplay Screenshot](screenshots/gameplay.png)
+<p align="center">
+  <img src="assets/Screenshot-1.png" width="30%" />
+  <img src="assets/Screenshot-2.png" width="30%" />
+  <img src="assets/Screenshot-3.png" width="30%" />
+</p>
 
-> _The game board mid-match — player X vs. the Minimax AI_
+> _The game board mid-match - player X vs. the Minimax AI_
 
 ---
 
 ## 🎥 Demo Video
 
-<!-- Option 1: If uploading the video directly to the repo or GitHub release assets -->
-https://github.com/MusaIslamFahad/tic-tac-toe-minimax/assets/YOUR_ASSET_ID/your-demo-video.mp4
+<p align="center">
+  <a href="https://github.com/MusaIslamFahad/tic-tac-toe-minimax/blob/main/assets/ScreenRecording2026-05-16.mp4">
+    <img src="assets/Screenshot-1.png" width="700" alt="Watch Demo Video"/>
+  </a>
+</p>
 
-<!-- Option 2: If hosting on YouTube, replace the link below -->
-<!-- [![Watch the Demo](screenshots/gameplay.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
 
-> _Full gameplay walkthrough — Easy mode vs. Hard (Minimax) mode_
+
+> _Click the image above to watch the full gameplay walkthrough - Easy mode vs. Hard (Minimax) mode_
 
 ---
+
 
 ## ✨ Features
 
 - 🧠 **Unbeatable AI** powered by the Minimax algorithm
-- 🎚️ **Three difficulty levels** — Easy (random), Medium, and Hard (Minimax)
-- 🎨 **Clean real-time GUI** — Xs and Os drawn live on a smooth board
+- 🎚️ **Three difficulty levels**: Easy (random), Medium, and Hard (Minimax)
+- 🎨 **Clean real-time GUI**: Xs and Os drawn live on a smooth board
 - 🔊 **Click sound effects** via `click_sound.wav`
-- 🔄 **Instant restart** — press `R` at any time to reset the board
-- 🪶 **Lightweight** — no game engine, just pure Python
+- 🔄 **Instant restart**: press `R` at any time to reset the board
+- 🪶 **Lightweight**: no game engine, just pure Python
 
 ---
 
@@ -97,8 +107,8 @@ python "Tic_Tac_Toc Game/main.py"
 | Quit | Close the window |
 
 - You play as **X**, the AI plays as **O**
-- On **Hard** mode, the AI uses Minimax — it will never lose
-- On **Easy** mode, the AI picks random empty squares — great for beginners
+- On **Hard** mode, the AI uses Minimax; it will never lose
+- On **Easy** mode, the AI picks random empty squares; great for beginners
 
 ---
 
@@ -111,7 +121,7 @@ The AI uses the **Minimax algorithm**, a classic decision-making technique in ga
 3. The AI maximizes its own score while minimizing the player's
 4. The move with the highest score is selected
 
-This guarantees the AI never makes a suboptimal choice on Hard difficulty — the best you can do is draw.
+This guarantees the AI never makes a suboptimal choice on Hard difficulty - the best you can do is draw.
 
 ---
 
@@ -131,12 +141,12 @@ tic-tac-toe-minimax/
 
 ## 🔮 Future Enhancements
 
-- 🏆 **Scoreboard** — track wins, losses, and draws across sessions
-- 👥 **Two-player mode** — play locally against a friend
-- 🌐 **Online multiplayer** — compete over the network
-- 🎨 **Theme customization** — swap board and piece styles
-- 📱 **Mobile port** — adapt for Android/iOS with Kivy or BeeWare
-- ⚡ **Alpha-Beta Pruning** — optimize Minimax for even faster decisions
+- 🏆 **Scoreboard**: track wins, losses, and draws across sessions
+- 👥 **Two-player mode**: play locally against a friend
+- 🌐 **Online multiplayer**: compete over the network
+- 🎨 **Theme customization**: swap board and piece styles
+- 📱 **Mobile port**: adapt for Android/iOS with Kivy or BeeWare
+- ⚡ **Alpha-Beta Pruning**: optimize Minimax for even faster decisions
 
 ---
 
@@ -153,4 +163,4 @@ Inspired by classic logic games and built as a hands-on exploration of AI algori
 
 ---
 
-> ⭐ Found this fun or useful? Drop a star — it means a lot!
+> ⭐ Found this fun or useful? Drop a star. It means a lot!
