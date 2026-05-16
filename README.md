@@ -40,8 +40,6 @@ A Python + Pygame desktop Tic Tac Toe game with a clean UI, click sound effects,
   </a>
 </p>
 
-
-
 > _Click the image above to watch the full gameplay walkthrough - Easy mode vs. Hard (Minimax) mode_
 
 ---
