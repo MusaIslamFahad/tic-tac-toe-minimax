@@ -1,9 +1,11 @@
-# ❌⭕ Tic Tac Toe - Minimax AI
+<div align="center">
+  
+# ❌ Tic Tac Toe - Minimax AI ⭕
 
 A Python + Pygame desktop Tic Tac Toe game with a clean UI, click sound effects, adjustable difficulty, and an unbeatable AI opponent built on the Minimax algorithm.
 
 <p align="center">
-
+  
 <img src="https://img.shields.io/badge/Python-3.x-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B" />
 <img src="https://img.shields.io/badge/Pygame-2.x-0f172a?style=for-the-badge&logo=pygame&logoColor=22C55E" />
 <img src="https://img.shields.io/badge/AI-Minimax-0f172a?style=for-the-badge&logo=openai&logoColor=A855F7" />
@@ -11,6 +13,8 @@ A Python + Pygame desktop Tic Tac Toe game with a clean UI, click sound effects,
 <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0f172a?style=for-the-badge&logo=linux&logoColor=38BDF8" />
 
 </p>
+
+</div>
 
 ---
 
