@@ -23,24 +23,24 @@ A Python + Pygame desktop Tic Tac Toe game with a clean UI, click sound effects,
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="assets/Screenshot-1.png" width="30%" />
-  <img src="assets/Screenshot-2.png" width="30%" />
-  <img src="assets/Screenshot-3.png" width="30%" />
+  <img src="assets/Screenshot-1.png" width="32.5%" />
+  <img src="assets/Screenshot-2.png" width="32.5%" />
+  <img src="assets/Screenshot-3.png" width="33%" />
 </p>
 
 > _The game board mid-match - player X vs. the Minimax AI_
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Gameplay Preview
 
 <p align="center">
-  <a href="https://github.com/MusaIslamFahad/tic-tac-toe-minimax/blob/main/assets/ScreenRecording2026-05-16.mp4">
-    <img src="assets/Screenshot-1.png" width="700" alt="Watch Demo Video"/>
-  </a>
+  <img src="./assets/Recording2026-05-16.gif" 
+       width="400" 
+       alt="Gameplay Demo">
 </p>
 
-> _Click the image above to watch the full gameplay walkthrough - Easy mode vs. Hard (Minimax) mode_
+> _Easy mode (Minimax AI) gameplay preview_
 
 ---
 
