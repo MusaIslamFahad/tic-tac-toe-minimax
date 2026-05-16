@@ -40,7 +40,7 @@ A Python + Pygame desktop Tic Tac Toe game with a clean UI, click sound effects,
 
 <p align="center">
   <img src="./assets/Recording2026-05-16.gif" 
-       width="400" 
+       width="600" 
        alt="Gameplay Demo">
 </p>
 
